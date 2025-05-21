@@ -103,6 +103,9 @@
     "ws3-fca": "^1.0.47",
     "youtube-search-api": "^1.2.2",
     "yt-search": "^2.12.1"
+    "jimp": "^0.22.10",
+    "fontstyles": "^1.0.0",
+    "discord-image-generation":"^1.4.0"
   },
   "scripts": {
     "start": "set NODE_ENV=&& node index.js",
